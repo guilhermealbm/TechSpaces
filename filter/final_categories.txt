@@ -1,0 +1,1 @@
+component, database, extension, environment, language, library, platform, subsystem, framework, ide, tool, toolkit, utility, system
